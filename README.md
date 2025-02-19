@@ -1,4 +1,4 @@
- <h2 align="center">GitHub Readme Stats</h2><!---
+<!---
 Kenzhou7th/Kenzhou7th is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
